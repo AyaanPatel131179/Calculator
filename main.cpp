@@ -1,4 +1,4 @@
-/* Ayaan Patel, Calculator, 9/9/2025, EXTRA - pauses*/
+/* Ayaan Patel, Calculator, 9/9/2025, EXTRA - POWER*/
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -42,6 +42,7 @@ int main(){
     cout << "Increment" << suminc << endl;
     cout << "Decrement" << sumdec << endl;
      cout << "Power" << power << endl;
+
 
 
 
